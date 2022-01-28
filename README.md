@@ -47,6 +47,10 @@ See also related lists:
 * Misc
   * [github.com/nanopb/nanopb](https://github.com/nanopb/nanopb)
 
+# Firmware reverse engineering
+
+* [github.com/ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)
+
 # Websites and blogs
 
 * https://www.cnx-software.com/
@@ -54,11 +58,12 @@ See also related lists:
 * https://embeddedartistry.com/
 * [Bootlin Embedded Linux documentation](https://bootlin.com/docs/)
 
-# Blogs
+# Blogs and tutorials
 
 * [betterembsw.blogspot.com](https://betterembsw.blogspot.com/)
 * [embeddedartistry.com/blog](https://embeddedartistry.com/blog)
 * [interrupt.memfault.com/blog](https://interrupt.memfault.com/blog/)
+* [Azaria labs tutorials (ARM)](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 # License
 
