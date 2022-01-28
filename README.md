@@ -17,17 +17,35 @@ See also related lists:
 # Books
 
 * [Embedded Systems (free Wikibook)](https://en.m.wikibooks.org/wiki/Embedded_Systems)
+* [Better Embedded System Software - Philip Koopman ](https://www.amazon.com/gp/product/B08TZ9LYXC)
 
 # Hardware
 
-* https://arduino.cc/
-* https://www.raspberrypi.org/
+* [Arduino](https://arduino.cc/)
+* [Raspberry Pi](https://www.raspberrypi.org/)
 
 # Software
 
-* OpenOCD
-* texane/stlink
-* KiCad
+* [OpenOCD](https://github.com/openocd-org/openocd)
+* [texane/stlink](https://github.com/stlink-org/stlink)
+* [KiCad](https://www.kicad.org/)
+
+# Serialisation formats and protocols
+
+* MessagePack
+  * [github.com/ludocode/mpack](https://github.com/ludocode/mpack)
+
+* JSON
+  * [github.com/MaJerle/lwjson](https://github.com/MaJerle/lwjson)
+
+* Websockets
+  * [libwebsockets.org](https://libwebsockets.org/)
+
+* [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol)
+  * [github.com/darconeous/libnyoci](https://github.com/darconeous/libnyoci)
+
+* Misc
+  * [github.com/nanopb/nanopb](https://github.com/nanopb/nanopb)
 
 # Websites and blogs
 
@@ -38,8 +56,9 @@ See also related lists:
 
 # Blogs
 
-* https://betterembsw.blogspot.com/
-* https://embeddedartistry.com/blog
+* [betterembsw.blogspot.com](https://betterembsw.blogspot.com/)
+* [embeddedartistry.com/blog](https://embeddedartistry.com/blog)
+* [interrupt.memfault.com/blog](https://interrupt.memfault.com/blog/)
 
 # License
 
