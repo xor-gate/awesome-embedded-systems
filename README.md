@@ -13,6 +13,7 @@ See also related lists:
 # RTOS
 
 * [Comparison of real-time operating systems (Wikipedia)](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)
+* [Protothreads](http://dunkels.com/adam/pt/) (example [An Example of using Protothreads](https://zanedp.livejournal.com/tag/programming?utm_medium=endless_scroll#post-zanedp-197037))
 
 # Books
 
